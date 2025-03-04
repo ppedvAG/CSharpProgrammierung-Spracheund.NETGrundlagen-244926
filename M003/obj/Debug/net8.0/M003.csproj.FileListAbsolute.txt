@@ -1,0 +1,15 @@
+C:\Users\pl2\Source\Repos\CSharpProgrammierung-Spracheund.NETGrundlagen-244926\M003\bin\Debug\net8.0\M003.exe
+C:\Users\pl2\Source\Repos\CSharpProgrammierung-Spracheund.NETGrundlagen-244926\M003\bin\Debug\net8.0\M003.deps.json
+C:\Users\pl2\Source\Repos\CSharpProgrammierung-Spracheund.NETGrundlagen-244926\M003\bin\Debug\net8.0\M003.runtimeconfig.json
+C:\Users\pl2\Source\Repos\CSharpProgrammierung-Spracheund.NETGrundlagen-244926\M003\bin\Debug\net8.0\M003.dll
+C:\Users\pl2\Source\Repos\CSharpProgrammierung-Spracheund.NETGrundlagen-244926\M003\bin\Debug\net8.0\M003.pdb
+C:\Users\pl2\Source\Repos\CSharpProgrammierung-Spracheund.NETGrundlagen-244926\M003\obj\Debug\net8.0\M003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pl2\Source\Repos\CSharpProgrammierung-Spracheund.NETGrundlagen-244926\M003\obj\Debug\net8.0\M003.AssemblyInfoInputs.cache
+C:\Users\pl2\Source\Repos\CSharpProgrammierung-Spracheund.NETGrundlagen-244926\M003\obj\Debug\net8.0\M003.AssemblyInfo.cs
+C:\Users\pl2\Source\Repos\CSharpProgrammierung-Spracheund.NETGrundlagen-244926\M003\obj\Debug\net8.0\M003.csproj.CoreCompileInputs.cache
+C:\Users\pl2\Source\Repos\CSharpProgrammierung-Spracheund.NETGrundlagen-244926\M003\obj\Debug\net8.0\M003.sourcelink.json
+C:\Users\pl2\Source\Repos\CSharpProgrammierung-Spracheund.NETGrundlagen-244926\M003\obj\Debug\net8.0\M003.dll
+C:\Users\pl2\Source\Repos\CSharpProgrammierung-Spracheund.NETGrundlagen-244926\M003\obj\Debug\net8.0\refint\M003.dll
+C:\Users\pl2\Source\Repos\CSharpProgrammierung-Spracheund.NETGrundlagen-244926\M003\obj\Debug\net8.0\M003.pdb
+C:\Users\pl2\Source\Repos\CSharpProgrammierung-Spracheund.NETGrundlagen-244926\M003\obj\Debug\net8.0\M003.genruntimeconfig.cache
+C:\Users\pl2\Source\Repos\CSharpProgrammierung-Spracheund.NETGrundlagen-244926\M003\obj\Debug\net8.0\ref\M003.dll

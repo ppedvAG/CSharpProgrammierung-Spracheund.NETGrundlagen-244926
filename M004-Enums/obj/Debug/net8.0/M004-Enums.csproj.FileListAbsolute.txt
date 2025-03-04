@@ -1,0 +1,15 @@
+C:\Users\pl2\Source\Repos\CSharpProgrammierung-Spracheund.NETGrundlagen-244926\M004-Enums\bin\Debug\net8.0\M004-Enums.exe
+C:\Users\pl2\Source\Repos\CSharpProgrammierung-Spracheund.NETGrundlagen-244926\M004-Enums\bin\Debug\net8.0\M004-Enums.deps.json
+C:\Users\pl2\Source\Repos\CSharpProgrammierung-Spracheund.NETGrundlagen-244926\M004-Enums\bin\Debug\net8.0\M004-Enums.runtimeconfig.json
+C:\Users\pl2\Source\Repos\CSharpProgrammierung-Spracheund.NETGrundlagen-244926\M004-Enums\bin\Debug\net8.0\M004-Enums.dll
+C:\Users\pl2\Source\Repos\CSharpProgrammierung-Spracheund.NETGrundlagen-244926\M004-Enums\bin\Debug\net8.0\M004-Enums.pdb
+C:\Users\pl2\Source\Repos\CSharpProgrammierung-Spracheund.NETGrundlagen-244926\M004-Enums\obj\Debug\net8.0\M004-Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pl2\Source\Repos\CSharpProgrammierung-Spracheund.NETGrundlagen-244926\M004-Enums\obj\Debug\net8.0\M004-Enums.AssemblyInfoInputs.cache
+C:\Users\pl2\Source\Repos\CSharpProgrammierung-Spracheund.NETGrundlagen-244926\M004-Enums\obj\Debug\net8.0\M004-Enums.AssemblyInfo.cs
+C:\Users\pl2\Source\Repos\CSharpProgrammierung-Spracheund.NETGrundlagen-244926\M004-Enums\obj\Debug\net8.0\M004-Enums.csproj.CoreCompileInputs.cache
+C:\Users\pl2\Source\Repos\CSharpProgrammierung-Spracheund.NETGrundlagen-244926\M004-Enums\obj\Debug\net8.0\M004-Enums.sourcelink.json
+C:\Users\pl2\Source\Repos\CSharpProgrammierung-Spracheund.NETGrundlagen-244926\M004-Enums\obj\Debug\net8.0\M004-Enums.dll
+C:\Users\pl2\Source\Repos\CSharpProgrammierung-Spracheund.NETGrundlagen-244926\M004-Enums\obj\Debug\net8.0\refint\M004-Enums.dll
+C:\Users\pl2\Source\Repos\CSharpProgrammierung-Spracheund.NETGrundlagen-244926\M004-Enums\obj\Debug\net8.0\M004-Enums.pdb
+C:\Users\pl2\Source\Repos\CSharpProgrammierung-Spracheund.NETGrundlagen-244926\M004-Enums\obj\Debug\net8.0\M004-Enums.genruntimeconfig.cache
+C:\Users\pl2\Source\Repos\CSharpProgrammierung-Spracheund.NETGrundlagen-244926\M004-Enums\obj\Debug\net8.0\ref\M004-Enums.dll
