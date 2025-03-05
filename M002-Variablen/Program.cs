@@ -83,8 +83,8 @@ string pfad = @"C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.1\Syste
 //Console.WriteLine($"Du hast {eingabe} eingegeben");
 
 // Console.ReadKey(): Wartet auf die einzelne Eingabe vom Benutzer
-//ConsoleKeyInfo taste = Console.ReadKey();
-//Console.WriteLine(taste.Key);
+ConsoleKeyInfo taste = Console.ReadKey();
+Console.WriteLine(taste.Key);
 
 #endregion
 

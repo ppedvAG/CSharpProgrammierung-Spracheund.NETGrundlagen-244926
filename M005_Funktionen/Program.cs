@@ -92,6 +92,7 @@ internal class Program
 
     static int PrintAddiere(int z1, int z2, int z3)
     {
+        // if(z1.GetType() == typeof(int)) auf gleichen Datentyp prüfen
         int summe = z1 + z2 + z3;
         Console.WriteLine($"{z1} + {z2} + {z3} = {summe}");
         return summe;
@@ -109,7 +110,7 @@ internal class Program
 
     // optionale Parameter
     // Parameter mit einer Vorbelegung, diese kann überschrieben
-    static void Subtrahiere(int a = 0, int b = 0, int c = 0)
+    static int Subtrahiere(int a = 0, int b = 0, int c = 0)
     {
         int summe = a - b - c;
         Console.WriteLine(summe);
