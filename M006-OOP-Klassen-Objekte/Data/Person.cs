@@ -81,6 +81,12 @@ public class Person
         Alter = alter;
     }
 
+    ~Person() 
+    {
+        Console.WriteLine("Objekt wurde zerstört");
+    }
+
+
 
     #endregion
 }

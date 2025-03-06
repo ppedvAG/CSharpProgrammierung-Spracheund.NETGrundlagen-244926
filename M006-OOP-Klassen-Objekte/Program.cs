@@ -47,5 +47,20 @@ internal class Program
         {
             Console.WriteLine($"{teilnehmer.GetVorname()} {teilnehmer.Nachname}");
         }
+
+        // 1. Person() Konstruktor wird aufgerufen, Objekt wurde erstellt
+        // 2. ~Person() Destruktor wurde aufgerufen, wenn GC gelöscht hat
+        // 3. GC.Collect() => Erzwingt die Garbage COllection
+        // 4. GC.WaitForPendingFinalizers() => Warte bis der Destruktor aufgerufen wurde
+
+        Person person = new Person();
+        person = null; // Setzt das Objekt auf null setzen ( => Speicher frei geben, Objekt zerstören)
+
+
+        // Dispose()
+        GC.Collect(); // Erzwingt eine Garbage Collection
+        GC.WaitForPendingFinalizers(); // Wartet auf die Abarbeitung des Destruktor
+
+        Console.WriteLine("Programm ist beendet");
     }
 }
