@@ -14,6 +14,9 @@ internal class Program
 
         //Hier eigenen Code schreiben
         personen.Where(e => e.Alter >= 60);
+
+        // 11
+        personen.Where(e => e.Alter > personen.Average(e => e.Alter));
     }
 }
 
