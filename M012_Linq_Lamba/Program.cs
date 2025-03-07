@@ -96,7 +96,11 @@ internal class Program
         // Anhand des kriteriums die Daten in gruppen aufteilen
         // Beispiel: Nach Marke gruppieren
         // Drei Gruppen: Audi-Gruppe, BMW-Gruppe, VW-Gruppe
-        fahrzeuge.GroupBy(e => e.Marke);
+       var gruppiert = fahrzeuge.GroupBy(e => e.Marke);
+
+        foreach (var group in gruppiert)
+            Console.WriteLine($"Key: {group.Key}, Gezählt: {group.Count()}");
+
         #endregion
     }
 }
